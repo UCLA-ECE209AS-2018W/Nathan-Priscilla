@@ -1,0 +1,8 @@
+Pillow
+numpy
+protobuf
+pygame
+matplotlib
+future
+keyboard
+configparser
